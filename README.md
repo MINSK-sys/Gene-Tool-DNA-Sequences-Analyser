@@ -44,7 +44,7 @@ Expected Output: ERROR: Invalid DNA sequence.
 2.  Open your terminal/command prompt.
 3.  Navigate to the project directory:
     ```bash
-    cd GeneTool_Project
+    cd Gene-Tool-DNA-Sequence-Analyzer
     ```
 
 ### Running the Application
