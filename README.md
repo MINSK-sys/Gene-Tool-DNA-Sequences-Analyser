@@ -17,7 +17,25 @@ This project includes three meaningful functional modules:
 
 ## 4. How to Install and Run
 Follow these steps to run the project on your local machine:
+Once the program is running, follow the on-screen menu:
+Test GC Content:
+Select Option 1.
+Input: ATCG
+Expected Output: 50.0%
 
+Test Transcription:
+Select Option 2.
+Input: AATTCG
+Expected Output: AAUUCG
+
+Test Reverse Complement:
+Select Option 3.
+Input: ATCG
+Expected Output: CGAT
+
+Test Error Handling:
+Enter random text like HELLO.
+Expected Output: ERROR: Invalid DNA sequence.
 ### Prerequisites
 * Ensure **Python 3** is installed on your system.
 
